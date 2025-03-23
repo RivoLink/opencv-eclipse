@@ -1,2 +1,1 @@
-# opencv-eclipse
-OpenCV Eclipse
+# OpenCV Eclipse
